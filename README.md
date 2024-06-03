@@ -1,19 +1,19 @@
-## Olá, sou Nicolas Lima, estudante de ADS. 
+# Olá, sou Nicolas Lima, estudante de ADS. 
 
-## Objetivo
+# Objetivo
 Carreira como programador Back-end utilizando Java, PHP, Javascript e outras linguagens para tal. <br>
-## Histórico no Github
+# Histórico no Github
 <a href="https://github.com/NicolasSlmetal">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasSlmetal&layout=compact&langs_count=7&theme=dracula"/>
 </a>
 
-## Habilidades
-### Linguagens
+# Habilidades
+## Linguagens
 [![Habilidades](https://skillicons.dev/icons?i=java,php,python,js,nodejs)](https://skillicons.dev)
-### Frameworks
+## Frameworks
 [![Habilidades](https://skillicons.dev/icons?i=spring,bootstrap,tensorflow)](https://skillicons.dev)
-### Banco de dados
+## Banco de dados
 [![Habilidades](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
-### Outras tecnologias
+## Outras tecnologias
 [![Habilidades](https://skillicons.dev/icons?i=css,html,docker,gradle,maven&perline=3)](https://skillicons.dev)
 
