@@ -9,7 +9,7 @@ Carreira como programador Back-end utilizando Java, PHP, Javascript e outras lin
 
 # Habilidades
 ## Linguagens
-[![Habilidades](https://skillicons.dev/icons?i=java,php,python,js,nodejs)](https://skillicons.dev)
+[![Habilidades](https://skillicons.dev/icons?i=java,php,python,c,js,nodejs)](https://skillicons.dev)
 ## Frameworks
 [![Habilidades](https://skillicons.dev/icons?i=spring,bootstrap,tensorflow)](https://skillicons.dev)
 ## Banco de dados
