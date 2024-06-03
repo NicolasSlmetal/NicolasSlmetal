@@ -6,6 +6,7 @@ Carreira como programador Back-end utilizando Java, PHP, Javascript e outras lin
 <a href="https://github.com/NicolasSlmetal">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasSlmetal&layout=compact&langs_count=7&theme=dracula"/>
 </a>
+
 ## Habilidades
 ### Linguagens
 [![Habilidades](https://skillicons.dev/icons?i=java,php,python,js,nodejs)](https://skillicons.dev)
@@ -15,3 +16,4 @@ Carreira como programador Back-end utilizando Java, PHP, Javascript e outras lin
 [![Habilidades](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 ### Outras tecnologias
 [![Habilidades](https://skillicons.dev/icons?i=css,html,docker,gradle,maven&perline=3)](https://skillicons.dev)
+</div>
