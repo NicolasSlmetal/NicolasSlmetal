@@ -1,7 +1,7 @@
 # Olá, sou Nicolas Lima, estudante de ADS. 
 
 # Objetivo
-Carreira como programador Back-end utilizando Java, PHP, Javascript e outras linguagens para tal. <br>
+Carreira como programador Back-end utilizando Java, PHP, Python e outras linguagens para tal. <br>
 # Histórico no Github
 <a href="https://github.com/NicolasSlmetal">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasSlmetal&layout=compact&langs_count=7&theme=dracula"/>
