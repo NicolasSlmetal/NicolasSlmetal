@@ -6,6 +6,9 @@ Carreira como programador Back-end utilizando Java, PHP, Python e outras linguag
 <a href="https://github.com/NicolasSlmetal">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasSlmetal&layout=compact&langs_count=7&theme=dark"/>
 </a>
+<a href="https://github.com/NicolasSlmetal">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasSlmetal&show_icons=true&theme=dark"/>
+</a>
 
 # Habilidades
 ## Linguagens
