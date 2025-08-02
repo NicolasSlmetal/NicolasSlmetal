@@ -17,7 +17,7 @@ Carreira como desenvolvedor Back-end utilizando as stacks Java/Spring e Node.js.
 ## Outras Linguagens
 [![Habilidades](https://skillicons.dev/icons?i=php,python)](https://skillicons.dev)
 ## Frameworks
-[![Habilidades](https://skillicons.dev/icons?i=spring,react)](https://skillicons.dev)
+[![Habilidades](https://skillicons.dev/icons?i=spring,angular)](https://skillicons.dev)
 ## Banco de dados
 [![Habilidades](https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite)](https://skillicons.dev)
 ## Outras tecnologias
